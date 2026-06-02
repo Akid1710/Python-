@@ -1,0 +1,12 @@
+{
+    "admin": {
+        "role": "Pengurus",
+        "nama": "Ustadz Admin"
+    },
+    "dika": {
+        "role": "Santri",
+        "nama": "dika",
+        "nis": "12345",
+        "saldo": 10111
+    }
+}
